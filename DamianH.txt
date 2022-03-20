@@ -1,10 +1,10 @@
 Su nombre es Damian Nuccio
 
-El fue el mejor programador de la historia, por mucho.
+El fue el mejor programador de la historia.
 
 Esta es su historia...
 
-Nacido en 1993, en la ciudad de Almafuerte, durante toda su infancia sufrio lo que se conoce como
+Nacido en 1993, en la ciudad de Almafuerte, durante toda su infancia tuvo que pasar x lo que se conoce como
 bullying, hasta que un momento se canso y dijo basta.
 
 Hoy se culea todo lo que quiere.
@@ -20,3 +20,4 @@ prueba final de merge. gracias. no entiendo
 vamos a agregar esto ultimo y ya.
 
 Vamos a agregar una linea mas para ver si funciona bien la conexion ssh.
+
