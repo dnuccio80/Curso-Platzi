@@ -1,6 +1,6 @@
 Su nombre es Damian Nuccio
 
-El fue el mejor programador de la historia, por mucho.
+El fue el mejor programador de la historia.
 
 Esta es su historia...
 
@@ -20,3 +20,4 @@ prueba final de merge. gracias. no entiendo
 vamos a agregar esto ultimo y ya.
 
 Vamos a agregar una linea mas para ver si funciona bien la conexion ssh.
+
